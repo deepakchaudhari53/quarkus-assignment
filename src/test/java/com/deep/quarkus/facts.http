@@ -1,0 +1,2 @@
+POST http://localhost:9090/v1/facts
+Content-Type: application/json
